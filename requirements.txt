@@ -1,0 +1,6 @@
+PySide6>=6.4.0
+sounddevice>=0.4.6
+numpy>=1.22.0
+scipy>=1.8.0
+funasr>=0.1.0
+qt-material>=2.12  # 新增UI主题依赖
